@@ -1,0 +1,1 @@
+write stream wrote me then readable stream read me.
